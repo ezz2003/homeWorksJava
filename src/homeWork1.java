@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class homeWork1 {
     static void TriangularNumber(){
 //        1. Вычислить n-ое треугольного число(сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
@@ -104,9 +103,6 @@ public class homeWork1 {
                 } else if (wIndex ==1) {
                     w = String.format("%d",j)+w.charAt(wIndex);
                 }
-//                int qI = Integer.valueOf(q);
-//                System.out.println(qI+5);
-//                System.out.printf("%s + %s = %d\n", qI,w,e);
                 if (Integer.valueOf(q) + Integer.valueOf(w) == e){
                     System.out.printf("%s + %s = %d\n", q,w,e);
                     flag = false;
