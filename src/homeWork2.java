@@ -4,6 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.Objects;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.logging.FileHandler;
@@ -55,15 +56,43 @@ public class homeWork2 {
     }
 
 
+    public static void problem1() throws IOException{
+//        Дана строка sql-запроса "select * from students where ".
+//        Сформируйте часть WHERE этого запроса, используя StringBuilder.
+//        Данные для фильтрации приведены ниже в виде json строки.
+//        Если значение null, то параметр не должен попадать в запрос.
+//        Параметры для фильтрации: {"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"}
+        logger.log(Level.INFO, "problem 1 - START");
+        String studentsJ = "{\"name\":\"Ivanov\", \"country\":\"Russia\", \"city\":\"Moscow\", \"age\":\"null\"}";
+        String requestStart = "select * from students where (";
+        String [] studentsS = studentsJ.replaceAll("\\{|\\ |\\}", "").split(",");
+//        Stream.of(studentsS).forEach(System.out::println);
+        StringBuilder requestFull= new StringBuilder(requestStart);
+        for (String i:studentsS){
+            int a = i.indexOf(":");
+            String i1 = i.substring(0, a);
+            String i2 = i.substring(a+1).replaceAll("","");
+            if (!(Objects.equals(i2,"\"null\""))){
+                requestFull.append(i1.replaceAll("\\\"","")).append(" = ");
+                requestFull.append(i2).append(") AND (");
+            }
+
+
+        }
+        System.out.println(requestFull.toString().replaceAll("[ AND (]+$",""));
+        logger.log(Level.INFO, "problem 1 - END");
+    }
+
+
     public static void problem2() throws IOException {
-        int size = 35;
+        int size = 20;
         int upperBound = 100;
         int[] array = new int[size];
         Random random = new Random();
         IntStream.range(0, size)
                 .forEach(index -> array[index] = random.nextInt(upperBound));
-
         System.out.println(Arrays.toString(array));
+        logger.log(Level.INFO, "an array of random numbers has been created");
         boolean isSorted = false;
         int buf;
         while(!isSorted) {
@@ -75,6 +104,7 @@ public class homeWork2 {
                     buf = array[i];
                     array[i] = array[i+1];
                     array[i+1] = buf;
+                    logger.log(Level.INFO, "bubble sorting: the next iteration has been completed!");
                 }
             }
         }
@@ -163,7 +193,8 @@ public class homeWork2 {
 
 //        problem3();
 //        problem4();
-        problem2();
+//        problem2();
+        problem1();
     }
 }
 

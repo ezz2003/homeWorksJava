@@ -50,3 +50,963 @@ INFO: Testing LOG 1
 INFO: Testing LOG 1
 июн. 30, 2023 3:17:42 PM homeWork2 main
 INFO: Testing LOG 1
+июн. 30, 2023 3:24:43 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:24:43 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: an array of random numbers has been created
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:26:55 PM homeWork2 problem2
+INFO: bubble sorting: the next iteration has been completed!
+июн. 30, 2023 3:39:15 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 3:50:03 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:28:51 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:28:51 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:30:17 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:30:17 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:30:35 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:30:35 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:31:17 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:31:17 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:31:39 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:31:39 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:35:28 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:35:28 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:36:09 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:36:09 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:36:44 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:36:44 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:37:14 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:37:15 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:50:46 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:50:46 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:52:43 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:52:43 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:53:20 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:53:20 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:54:38 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:54:38 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:55:05 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:55:05 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:55:42 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:55:42 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:56:45 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:56:45 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:58:55 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:58:56 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 4:59:28 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 4:59:28 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:00:15 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:00:15 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:00:38 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:00:38 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:02:49 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:02:49 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:06:05 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:06:05 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:06:24 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:06:24 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:14:06 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:14:06 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:17:22 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:17:22 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:17:54 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:17:54 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:18:43 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:18:43 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:19:07 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:19:07 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:22:18 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:22:18 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:23:19 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:23:19 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:27:28 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:27:28 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:28:47 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:28:47 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:29:39 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:29:39 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:30:18 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:30:18 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:30:39 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:30:40 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:31:36 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:31:36 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:32:36 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:32:36 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:33:40 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:33:40 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 5:34:18 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 5:34:18 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:45:31 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:45:31 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:49:55 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:49:55 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:51:04 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:51:04 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:51:49 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:51:49 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:52:20 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:52:20 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:53:51 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:53:51 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:54:27 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:54:27 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:54:50 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:54:50 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:55:02 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:55:02 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:57:25 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:57:25 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 7:58:38 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 7:58:38 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 8:00:39 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 8:00:39 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 8:06:58 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 8:06:58 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 8:10:17 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 8:10:17 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 8:10:54 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 8:10:54 PM homeWork2 problem1
+INFO: problem 1 - START
+июн. 30, 2023 8:11:13 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 8:11:13 PM homeWork2 problem1
+INFO: problem 1 - START
