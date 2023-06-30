@@ -3,10 +3,14 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Arrays;
+import java.util.Random;
+import java.util.Scanner;
 import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
+import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 
@@ -27,6 +31,7 @@ public class homeWork2 {
         catch (FileNotFoundException fe)
         {
             System.out.println("File not found");
+            logger.log(Level.WARNING, String.format("File not found Freader file = %s", fName));
         }
         StringBuilder stJ = new StringBuilder();
         while ((ch=fr.read())!=-1)
@@ -50,6 +55,35 @@ public class homeWork2 {
     }
 
 
+    public static void problem2() throws IOException {
+        int size = 35;
+        int upperBound = 100;
+        int[] array = new int[size];
+        Random random = new Random();
+        IntStream.range(0, size)
+                .forEach(index -> array[index] = random.nextInt(upperBound));
+
+        System.out.println(Arrays.toString(array));
+        boolean isSorted = false;
+        int buf;
+        while(!isSorted) {
+            isSorted = true;
+            for (int i = 0; i < array.length-1; i++) {
+                if(array[i] > array[i+1]){
+                    isSorted = false;
+
+                    buf = array[i];
+                    array[i] = array[i+1];
+                    array[i+1] = buf;
+                }
+            }
+        }
+        System.out.println(Arrays.toString(array));
+
+
+    }
+
+
     public static void problem3() throws IOException {
 //        3.** Дана json строка (можно сохранить в файл и читать из файла)
 //   [{"фамилия":"Иванов","оценка":"5","предмет":"Математика"},{"фамилия":"Петрова","оценка":"4","предмет":"Информатика"},{"фамилия":"Краснов","оценка":"5","предмет":"Физика"}]
@@ -58,6 +92,7 @@ public class homeWork2 {
 //        Студент Иванов получил 5 по предмету Математика.
 //                Студент Петрова получил 4 по предмету Информатика.
 //                Студент Краснов получил 5 по предмету Физика.
+        logger.log(Level.INFO, "start running problem 3");
         String fileName = "src/file1.json";
         String obJson = Freader(fileName).replaceAll("\\[|\\]|\\\"", "");
         String arrObJson[] = obJson.split("},");
@@ -75,15 +110,49 @@ public class homeWork2 {
             strOut.append(findSymb(arrObJson[i], c));
             arrMessages[i] = strOut.toString();
         }
-
         Stream.of(arrMessages).forEach(System.out::println);
+        logger.log(Level.INFO, "problem 3 - successfully");
+    }
+
+
+    public static void problem4(){
+//        4*. К калькулятору из предыдущего дз добавить логирование.
+        Scanner iScanner = new Scanner(System.in);
+        System.out.printf("Enter first number: ");
+        float a = iScanner.nextFloat();
+        System.out.printf("Enter second number: ");
+        float b = iScanner.nextFloat();
+        System.out.printf("Enter an action: ");
+        char action = iScanner.next().charAt(0);
+        iScanner.close();
+        switch (action){
+            case '+':
+                System.out.printf("%.2f %c %.2f = %.2f", a,action,b,(a+b));
+                logger.log(Level.INFO, String.format("running CALC:     %.2f %c %.2f = %.2f", a,action,b,(a+b)));
+                break;
+            case '-':
+                System.out.printf("%.2f %c %.2f = %.2f", a,action, b,(a-b));
+                logger.log(Level.INFO, String.format("running CALC:     %.2f %c %.2f = %.2f", a,action, b,(a-b)));
+                break;
+            case '*':
+                System.out.printf("%.2f %c %.2f = %.2f", a,action,b,(a*b));
+                logger.log(Level.INFO, String.format("running CALC:     %.2f %c %.2f = %.2f", a,action,b,(a*b)));
+                break;
+            case '/':
+                System.out.printf("%.2f %c %.2f = %.2f", a,action,b, a/b);
+                logger.log(Level.INFO, String.format("running CALC:     %.2f %c %.2f = %.2f", a,action,b, a/b));
+                break;
+            default:
+                logger.log(Level.WARNING, String.format("running CALC:     %.2f %c %.2f = Invalid action!", a,action,b));
+                System.out.printf("%.2f %c %.2f = Invalid action!", a,action,b);
+        }
 
     }
 
     public static void main(String[] args) throws IOException {
 
 //        private final static Logger logger = Logger.getLogger(classroomWork2.class.getName());
-        FileHandler fh = new FileHandler("log.txt", 100 * 1024, 3, true);
+        FileHandler fh = new FileHandler("log.txt", 100 * 1024, 1, true);
         logger.setUseParentHandlers(false);
         logger.setLevel(Level.ALL);
         logger.addHandler(fh);
@@ -92,6 +161,9 @@ public class homeWork2 {
 
         logger.log(Level.INFO, "Testing LOG 1");
 
-        problem3();
+//        problem3();
+//        problem4();
+        problem2();
     }
 }
+

@@ -1,0 +1,52 @@
+июн. 30, 2023 2:07:02 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 2:09:41 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 2:16:42 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 2:16:42 PM homeWork2 problem3
+INFO: Testing running problem 3
+июн. 30, 2023 2:17:36 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 2:17:36 PM homeWork2 problem3
+INFO: running problem 3
+июн. 30, 2023 2:17:36 PM homeWork2 Freader
+WARNING: File not found Freader file = src/file_1.json
+июн. 30, 2023 2:18:17 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 2:18:17 PM homeWork2 problem3
+INFO: running problem 3
+июн. 30, 2023 2:20:43 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 2:20:43 PM homeWork2 problem3
+INFO: start running problem 3
+июн. 30, 2023 2:20:43 PM homeWork2 problem3
+INFO: problem 3 - successfully
+июн. 30, 2023 2:23:43 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 2:26:35 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 2:26:48 PM homeWork2 problem4
+INFO: running CALC:     5,00 + 5,00 = 10,00
+июн. 30, 2023 2:41:20 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 2:41:32 PM homeWork2 problem4
+INFO: running CALC:     3,00 / 4,00 = 0,75
+июн. 30, 2023 2:41:42 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 2:41:53 PM homeWork2 problem4
+WARNING: running CALC:     2,00 & 3,00 = Invalid action!
+июн. 30, 2023 3:05:28 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 3:05:54 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 3:11:16 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 3:11:27 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 3:11:46 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 3:17:10 PM homeWork2 main
+INFO: Testing LOG 1
+июн. 30, 2023 3:17:42 PM homeWork2 main
+INFO: Testing LOG 1
