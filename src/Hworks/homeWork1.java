@@ -1,3 +1,4 @@
+package Hworks;
 import java.util.Scanner;
 public class homeWork1 {
     static void TriangularNumber(){
