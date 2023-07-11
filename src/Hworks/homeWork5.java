@@ -98,6 +98,8 @@ public class homeWork5 {
 //        Map<String, Integer> dbN = new HashMap<>();
         TreeMap<String, Integer> dbN =new TreeMap<>();
         TreeMap<String, Map<String, String>> dbSort =new TreeMap<>((Collections.reverseOrder()));
+        TreeMap<Integer, Map<String, String>> dbSort2 =new TreeMap<>((Collections.reverseOrder()));
+
         Map<String, String> db =
                 new HashMap<>(Map.of("Ivanov", "Ivan", "Petrova", "Svetlana", "Belova",
                         "Kristina", "Musina","Anna", "Krutova", "Anna", "Jurin", "Ivan",
@@ -114,15 +116,32 @@ public class homeWork5 {
                 dbN.put(item.getValue(), dbN.get(item.getValue())+1);
             }
         }
+//        for(var item:db.keySet()){
+//            Map<String,String> person = new HashMap<>();
+//            person.put(db.get(item), item);
+//            dbSort.put(String.valueOf(dbN.get(db.get(item))) + db.get(item), person);
+//        }
         for(var item:db.keySet()){
-            Map<String,String> person = new HashMap<>();
-            person.put(db.get(item), item);
-            dbSort.put(String.valueOf(dbN.get(db.get(item))) + db.get(item), person);
+            if (!dbSort2.containsKey(dbN.get(db.get(item)))){
+                Map<String,String> person = new HashMap<>();
+                person.put(item, db.get(item));
+                dbSort2.put(dbN.get(db.get(item)), person);
+            } else {
+                Map<String,String> person = dbSort2.get(dbN.get(db.get(item)));
+                person.put(item, db.get(item));
+                dbSort2.put(dbN.get(db.get(item)), person);
+            }
         }
+
+
         System.out.println(db);                 // Печать исходного списка
         System.out.println(dbN);                // Печать рейтинга
-        for (var item:dbSort.keySet()){                         // Печать списка согласно рейтинга
-            System.out.println(dbSort.get(item).toString());    // в соответствии с убыванием рейтинга
+        for (var item:dbSort2.keySet()){                // Печать
+            for (var i: dbSort2.get(item).entrySet()){  // всего
+                System.out.printf("%d %s  %s\n",item,   // списка согласно рейтинга
+                        i.getValue().toString(), i.getKey().toString()); // в соответствии с убыванием рейтинга
+            }
+
         }
     }
 
@@ -131,7 +150,7 @@ public class homeWork5 {
 
     public static void main(String[] args){
         problem1();
-//        problem2();
+        problem2();
 
     }
 }
